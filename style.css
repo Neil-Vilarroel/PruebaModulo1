@@ -1,0 +1,17 @@
+body{ background-image: url(body.jpg);
+background-repeat: no-repeat;
+background-size: 100rem;
+height: auto;
+
+font-family: Arial, Helvetica, sans-serif;}
+.noticias {background-image: url(volcan.jpg);background-repeat: no-repeat;
+    background-size: 100rem;
+    height: auto;
+   color: white;
+font-family: Arial, Helvetica, sans-serif;}
+
+
+
+.mapa{display: flex;
+flex-direction: row;
+align-items: center;}
